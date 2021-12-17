@@ -1,0 +1,21 @@
+html {  background-color:BurlyWood ;}
+
+body {margin: 10px 10px 10px 10px;
+  background-color: DarkSeaGreen;
+  border: 5px solid black;}
+
+h1 {color: MediumPurple ; margin-left: 20px;}
+
+h2 {color: black; text-align: center;}
+
+p {color: black;text-align: center;}
+
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: MediumPurple ;
+  border-width: 13px;
+  width: 15%;
+}
+
+img {border: 5px solid BurlyWood ;}
